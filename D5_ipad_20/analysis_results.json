@@ -1,0 +1,13 @@
+{
+    "echoDetected": true,
+    "signalQuality": "Excellent",
+    "signalEnergy": 744660.0488683128,
+    "snr": 41.32809575883261,
+    "peakAmplitude": 12878,
+    "echoDelayMs": 48.96296296296296,
+    "echoCount": 18,
+    "minValue": -6508,
+    "maxValue": 6370,
+    "meanValue": -0.49523333333333336,
+    "rmsValue": 485.0477286867414
+}

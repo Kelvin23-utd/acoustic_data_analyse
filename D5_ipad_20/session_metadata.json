@@ -1,0 +1,17 @@
+{
+    "sessionId": "echo_test_20250420_162741",
+    "testStartTime": 1745184461488,
+    "sampleRate": 48000,
+    "chirpMinFreq": 15000,
+    "chirpMaxFreq": 17000,
+    "chirpDurationMs": 20,
+    "chirpGapMs": 500,
+    "bufferSize": 4800,
+    "testDurationMs": 10000,
+    "deviceModel": "Pixel 8",
+    "androidVersion": "14",
+    "actualStartTime": 1745189981822,
+    "actualEndTime": 1745189991881,
+    "actualDuration": 10059,
+    "chirpCount": 19
+}

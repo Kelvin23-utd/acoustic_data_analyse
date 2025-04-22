@@ -1,0 +1,2 @@
+file_name,num_samples,sample_rate,num_chirps_detected,num_profiles,num_valid_profiles,mean_distance_cm,median_distance_cm,std_dev_cm,min_distance_cm,max_distance_cm
+recording.wav,480000,48000,19,19,19,50.3405153508772,25.724999999999998,41.20245727233498,8.932291666666666,107.18750000000001
